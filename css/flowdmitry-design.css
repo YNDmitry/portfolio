@@ -524,7 +524,7 @@ p {
 
 .size-hor-telephone.border {
   display: inline-block;
-  margin-right: 80px;
+  margin-right: 10%;
   padding-bottom: 10px;
   border-bottom: 2px solid #fff;
 }
@@ -809,7 +809,7 @@ p {
     padding-right: 12%;
     padding-left: 12%;
   }
-  
+
   .wrap {
     padding-left: 12%;
     padding-right: 12%
@@ -873,7 +873,7 @@ p {
     margin-right: 0px;
     margin-bottom: 20px;
   }
-  
+
   .soc-btn {
     margin-left: auto;
   }
