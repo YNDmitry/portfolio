@@ -868,6 +868,10 @@ p {
     margin-right: 0px;
     margin-bottom: 20px;
   }
+  
+  .soc-btn {
+    margin-left: auto;
+  }
 
   .head {
     min-height: 90vh;
