@@ -784,7 +784,6 @@ p {
 @media screen and (max-width: 767px) {
   .soc-btn {
     margin-right: auto;
-    margin-left: auto;
   }
 
   .head {
