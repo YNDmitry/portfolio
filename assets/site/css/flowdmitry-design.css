@@ -157,6 +157,7 @@ p {
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   color: #fff;
+  margin-left: auto;
 }
 
 .btn._2:hover {
