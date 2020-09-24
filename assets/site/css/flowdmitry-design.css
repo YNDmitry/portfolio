@@ -1276,6 +1276,9 @@ canvas {
     margin-top: 20px;
     margin-left: auto;
   }
+	soc-btn {
+		background: #000;
+	}
   .wrap-btn {
     display: -webkit-box;
     display: -webkit-flex;
