@@ -537,7 +537,7 @@ canvas {
   right: auto;
   bottom: auto;
   height: 2px;
-	z-index: 999;
+  z-index: 999;
 }
 
 .absolute-txt-work {
