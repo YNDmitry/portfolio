@@ -209,7 +209,6 @@ canvas {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  height: 100vh;
   padding-right: 4%;
   padding-bottom: 50px;
   padding-left: 4%;
@@ -508,6 +507,7 @@ canvas {
   top: 197%;
   right: auto;
   bottom: 0%;
+  z-index: -1;
 }
 
 .right-ing {
@@ -516,6 +516,7 @@ canvas {
   top: 13%;
   right: 0%;
   bottom: 0%;
+  z-index: -1;
 }
 
 .scroldiv {
@@ -576,7 +577,7 @@ canvas {
   letter-spacing: 0.075em;
 }
 
-.burder {
+.burger {
   width: 35px;
   height: 2px;
   margin-bottom: 7px;
@@ -584,11 +585,11 @@ canvas {
   background-color: #fff;
 }
 
-.burder._2 {
+.burger._2 {
   width: 23px;
 }
 
-.burder._3 {
+.burger._3 {
   width: 28px;
 }
 
@@ -650,7 +651,7 @@ canvas {
 }
 
 .content-title.w--current {
-  color: #fff;
+  color: red;
 }
 
 .links-wrap {
@@ -1250,7 +1251,7 @@ canvas {
   .content-title {
     margin-top: 20px;
     margin-bottom: 20px;
-    font-size: 11vw;
+    font-size: 9vw;
     line-height: 1.1em;
     white-space: nowrap;
   }
@@ -1310,7 +1311,7 @@ canvas {
 }
 
 @media screen and (max-width: 991px) {
-  #w-node-95af0a25df3e-277a2166 {
+  #stiky {
     -ms-grid-row: span 2;
     grid-row-start: span 2;
     -ms-grid-row-span: 2;
@@ -1323,7 +1324,7 @@ canvas {
 }
 
 @media screen and (max-width: 767px) {
-  #w-node-95af0a25df3e-277a2166 {
+  #stiky {
     -ms-grid-row: 1;
     grid-row-start: 1;
     -ms-grid-row-span: -5;
