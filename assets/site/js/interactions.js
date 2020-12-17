@@ -510,7 +510,7 @@ Webflow.require('ix2').init({
                   actionTypeId: 'STYLE_SIZE',
                   config: {
                     delay: 0,
-                    easing: 'ease',
+                    easing: 'linear',
                     duration: 500,
                     locked: false,
                     target: {
@@ -528,7 +528,7 @@ Webflow.require('ix2').init({
                   actionTypeId: 'STYLE_BACKGROUND_COLOR',
                   config: {
                     delay: 0,
-                    easing: 'ease',
+                    easing: 'linear',
                     duration: 500,
                     target: {
                       useEventTarget: 'CHILDREN',
@@ -661,7 +661,7 @@ Webflow.require('ix2').init({
                   actionTypeId: 'STYLE_SIZE',
                   config: {
                     delay: 0,
-                    easing: 'ease',
+                    easing: 'linear',
                     duration: 500,
                     locked: false,
                     target: {
@@ -679,7 +679,7 @@ Webflow.require('ix2').init({
                   actionTypeId: 'STYLE_BACKGROUND_COLOR',
                   config: {
                     delay: 0,
-                    easing: 'ease',
+                    easing: 'linear',
                     duration: 500,
                     target: {
                       useEventTarget: 'CHILDREN',
